@@ -18,13 +18,13 @@ int main(void)
 
 			printf("%d is positive\n", number);
                         
-			printf("%d is negative\n", number);(
+			printf("%d is negative\n", number);
  
 			void positive _or_negative(int i);
 
-#endif /*MAIN_H*/
-)
-
+			
         return (0);
+
 }
+#endif /*MAIN_H*/
 
